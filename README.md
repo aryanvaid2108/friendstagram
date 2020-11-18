@@ -7,3 +7,27 @@ Keeping these minimum requirements in mind, my project allows a user to sign up 
 The entire social media network in managed on an unweighted, undirected graph structure, which works with adjacency lists. New users are added as a vertex to the graph. A connection, i.e. a friendship between existing users is created by adding an edge to the graph between the two users. A list of vertices is also maintained both, in the user object and the graph object, which is done for efficiency of searching. 
 
 The application has a clean, elegant UI which makes it easy, but interesting to use. The database of the application is implemented using File IO. All the user information is sorted in a file called database.txt and is loaded into the application as soon as it is launched.
+
+
+Screenshots of the working application:
+
+1>	User Sign Up page - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2>	User Sign In page 
