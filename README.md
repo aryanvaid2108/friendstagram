@@ -16,7 +16,7 @@ Screenshots of the working application:
 
 
 
-![](Picture1.png)
+![](https://github.com/aryanvaid2108/friendstagram/blob/master/Demo%20Pictures/Picture1.png)
 
 
 
