@@ -16,9 +16,7 @@ Screenshots of the working application:
 
 
 
-
-
-
+![](Picture1.png)
 
 
 
