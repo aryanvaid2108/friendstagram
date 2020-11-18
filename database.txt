@@ -1,0 +1,12 @@
+Aryan;Aryan2108$;Aryan;Vaid;aryanvaid2108@gmail.com;989879489;Male;08;21;1999;I created this app;/Users/aryan/Desktop/DPs/Jack.jpg;Ronny Rick Tom Emma Anna Ray ;
+Ronny;Ronny123$;Ron;Williams;ronny123@gmail.com;7042404455;Prefer not to say;01;01;2000;Uodated gig!;/Users/aryan/Desktop/DPs/Ronny.jpg;Aryan Eddie;
+Rick;Rick123$; Rick;Flair;rick@gmail.com;7676767676;Male;02;02;2004;I workout;/Users/aryan/Desktop/DPs/Rick.jpg;Aryan Rohit;
+Rohit;Rohit123$;Rohit;Kumar;rohitkumar@yahoo.com;555555;Male;04;04;1995;I'm a super sayin;/Users/aryan/Desktop/DPs/Rohit.jpg;Rick Sophia;
+Eddie;Eddie123$;Eddie;Hall;eddiehall@yahoo.com;555555;Male;04;04;1995;World's strongest man!;/Users/aryan/Desktop/DPs/Eddie.jpg;Sophia Ronny;
+Sophia;Sophia123$;Sophia;Miller;sophiamiller@yahoo.com;555555;Female;04;04;1995;Here to make friends:);/Users/aryan/Desktop/DPs/Sophia.jpg;Eddie Rick Aryan ;
+Olivia;Olivia123$;Olivia;Wilson;oliviawilson@gmail.com;555555;Female;04;04;1995;I love reading!;/Users/aryan/Desktop/DPs/Olivia.jpg;Anna;
+Jasmine;Jasmine123$;Jasmine;Moore;jasminemoore@gmail..com;555555;Female;04;04;1995;I enjoy music!;/Users/aryan/Desktop/DPs/Jasmine.jpg;Anna;
+Anna;Anna123$;Anna;Kaan;annakaan@gmail.com;555555;Female;04;04;1995;Hit me up:);/Users/aryan/Desktop/DPs/Anna.jpg;Olivia Jasmin;
+Ray;Ray123$;Ray;Tiger;raytiger@yahoo.com;555555;Prefer not to say;04;04;1995;Hurrican:D;/Users/aryan/Desktop/DPs/Ray.jpg;Tom Emma Aryan ;
+Tom;Tom123$;Tom;Macdonald;tommacdonald@gmail.com;555555;Male;04;04;1995;Hurrican:D;/Users/aryan/Desktop/DPs/Tom.jpg;Ray Emma Aryan ;
+Emma;Emma123$;Emma;Young;emma@gmail.com;555555;Female;04;04;1995;Young and dumb;/Users/aryan/Desktop/DPs/Emma.jpg;Tom Ray Aryan ;
